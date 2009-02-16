@@ -2,14 +2,14 @@
 
 Gem::Specification.new do |s|
   s.name = %q{opmlassist}
-  s.version = "0.0.0"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Pito Salas"]
   s.date = %q{2009-02-16}
   s.description = %q{Create and work with OPML files}
   s.email = %q{rps@salas.com}
-  s.files = ["lib/opmlassist.rb", "test/opmlassist_test.rb", "test/test_helper.rb"]
+  s.files = ["VERSION.yml", "lib/opmlassist.rb", "test/opmlassist_test.rb", "test/test_helper.rb"]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/pitosalas/opmlassist}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
