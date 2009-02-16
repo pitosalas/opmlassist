@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-02-16}
   s.description = %q{Create and work with OPML files}
   s.email = %q{rps@salas.com}
-  s.files = ["VERSION.yml", "lib/opmlassist.rb", "test/opmlassist_test.rb", "test/test_helper.rb"]
+  s.files = ["README.textile", "VERSION.yml", "lib/opmlassist.rb", "test/opmlassist_test.rb", "test/test_helper.rb"]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/pitosalas/opmlassist}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
