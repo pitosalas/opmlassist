@@ -10,7 +10,7 @@ begin
     s.summary = %Q{TODO}
     s.email = "rps@salas.com"
     s.homepage = "http://github.com/pitosalas/opmlassist"
-    s.description = "TODO"
+    s.description = "Create and work with OPML files"
     s.authors = ["Pito Salas"]
   end
 rescue LoadError
